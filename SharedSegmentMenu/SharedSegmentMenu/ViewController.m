@@ -32,6 +32,9 @@
     // 选中的字体颜色
     segmentVC.selectedColor = [UIColor greenColor];
     
+    
+    NSLog(@"哈哈哈哈哈");
+    
 }
 
 - (void)didReceiveMemoryWarning {
